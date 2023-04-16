@@ -1,0 +1,6 @@
+D:\Interface\DateFunction_9_Bilet\bin\Debug\DateFunction_9_Bilet.dll
+D:\Interface\DateFunction_9_Bilet\bin\Debug\DateFunction_9_Bilet.pdb
+D:\Interface\DateFunction_9_Bilet\obj\Debug\DateFunction_9_Bilet.csproj.AssemblyReference.cache
+D:\Interface\DateFunction_9_Bilet\obj\Debug\DateFunction_9_Bilet.csproj.CoreCompileInputs.cache
+D:\Interface\DateFunction_9_Bilet\obj\Debug\DateFunction_9_Bilet.dll
+D:\Interface\DateFunction_9_Bilet\obj\Debug\DateFunction_9_Bilet.pdb
